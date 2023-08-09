@@ -1,12 +1,9 @@
-# Board Infinity Assignment 
-# SDE - Frontend (Intern) Assignment
+# Spotify Clone
 
-# Problem Statement
-# To achieve the following you must:
-. Use React to build an attractive UI.
-. Use https://developer.spotify.com/ to consume the data from an external source.
-. Use NIVO CHARTS as your chart library.
-. Use REDUX, REDUX-THUNK for state management.
+. Used React to build an attractive UI.
+. Used https://developer.spotify.com/ to consume the data from an external source.
+. Used NIVO CHARTS as your chart library.
+. Used REDUX, REDUX-THUNK for state management.
 
 # Requirement of the App:
 The landing page should have a search bar where the user can enter any song or artist
